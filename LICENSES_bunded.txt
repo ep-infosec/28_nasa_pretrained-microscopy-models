@@ -1,0 +1,14 @@
+This repository bundles several libraries that are
+compatibly licensed.  We list these here.
+
+Name: PytorchDigitalPathology
+License: MIT
+  For details, see https://github.com/choosehappy/PytorchDigitalPathology/blob/master/LICENSE.txt
+
+Name: segmentation models pytorch
+License: MIT
+  For license text, see https://github.com/qubvel/segmentation_models.pytorch/blob/master/LICENSE
+
+Name: Pytorch examples
+License: BSD
+  For license text, see https://github.com/pytorch/examples/blob/main/LICENSE
